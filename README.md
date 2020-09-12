@@ -1,2 +1,2 @@
 # ICSDIYProject
-CLICK PLC and C-More HMI program for an ICS DIY Coffee Roaster Home Project
+CLICK PLC and C-more HMI program for an ICS DIY Coffee Roaster Home Project
